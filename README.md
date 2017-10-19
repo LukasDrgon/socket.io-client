@@ -6,6 +6,7 @@
 [![devDependency Status](https://david-dm.org/socketio/socket.io-client/dev-status.svg)](https://david-dm.org/socketio/socket.io-client#info=devDependencies)
 ![NPM version](https://badge.fury.io/js/socket.io-client.svg)
 ![Downloads](http://img.shields.io/npm/dm/socket.io-client.svg?style=flat)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/socket.io-client/badge?style=rounded)](https://www.jsdelivr.com/package/npm/socket.io-client)
 [![](http://slack.socket.io/badge.svg?)](http://slack.socket.io)
 
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/socket.svg)](https://saucelabs.com/u/socket)
